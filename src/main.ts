@@ -58,3 +58,6 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 `
 
 setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
+
+console.log('Hello Vite + TypeScript! on branch main')
+console.log('Hello Vite + TypeScript! on branch main')
